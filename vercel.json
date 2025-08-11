@@ -28,8 +28,8 @@
     }
   ],
   "env": {
-    "NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID": "@walletconnect_project_id",
-    "NEXT_PUBLIC_ALCHEMY_API_KEY": "@alchemy_api_key",
-    "NEXT_PUBLIC_INFURA_API_KEY": "@infura_api_key"
+    "NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID": "c5df0951573e834c17ba8d61110b38bd",
+    "NEXT_PUBLIC_ALCHEMY_API_KEY": "0Zoy-lsVH2iXqNBlZzaYPT1I0PlCf701",
+    "NEXT_PUBLIC_INFURA_API_KEY": "9a0c1339645f42af855bf3e9dbe56a7a"
   }
 }
