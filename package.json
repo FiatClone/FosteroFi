@@ -34,6 +34,7 @@
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "viem": "^2.21.45",
+    "pino-pretty": "^10.0.0",
     "wagmi": "^2.12.36"
   },
   "devDependencies": {
