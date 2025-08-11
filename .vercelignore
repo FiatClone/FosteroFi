@@ -1,0 +1,44 @@
+# Development files
+*.md
+!README.md
+!VERCEL_DEPLOYMENT.md
+
+# Test files
+**/*.test.*
+**/*.spec.*
+/tests
+/test
+
+# Documentation
+/docs
+*.md
+!README.md
+
+# IDE and editor files
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts (will be rebuilt)
+.next
+out
+dist
+
+# Dependency directories
+node_modules
+
+# Log files
+*.log
+logs
+
+# Environment files (use Vercel dashboard instead)
+.env*
+!.env.example
+
+# Source maps in production
+**/*.map
